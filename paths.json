@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/ib-test-repo-aem-sites/:/",
+    "/content/ib-test-repo-aem-sites/configuration:/.helix/config.json",
+    "/content/ib-test-repo-aem-sites/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/ib-test-repo-aem-sites/"
   ]
 }
