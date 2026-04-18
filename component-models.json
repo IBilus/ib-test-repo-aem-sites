@@ -103,6 +103,19 @@
     "id": "articleCard",
     "fields": [
       {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Card image",
+        "multi": false
+      },
+      {
+        "component": "aem-tag",
+        "label": "Article tag",
+        "name": "cq:tags",
+        "valueType": "string"
+      },
+      {
         "component": "aem-content",
         "name": "reference",
         "value": "",
