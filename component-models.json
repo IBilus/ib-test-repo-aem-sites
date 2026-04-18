@@ -103,16 +103,9 @@
     "id": "articleCard",
     "fields": [
       {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Image",
-        "multi": false
-      },
-      {
         "component": "richtext",
         "name": "text",
-        "value": "",
+        "value": "Text",
         "label": "Text",
         "valueType": "string"
       }
