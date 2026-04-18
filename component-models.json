@@ -106,41 +106,14 @@
         "component": "reference",
         "valueType": "string",
         "name": "image",
-        "label": "Card image",
+        "label": "Image",
         "multi": false
       },
       {
-        "component": "aem-tag",
-        "label": "Article tag",
-        "name": "cq:tags",
-        "valueType": "string"
-      },
-      {
-        "component": "aem-content",
-        "name": "reference",
-        "value": "",
-        "label": "Article link",
-        "valueType": "string",
-        "validation": {
-              "rootPath": "/content/refresh"
-        }
-      },
-      {
-        "component": "date-time",
-        "label": "Date & Time",
-        "name": "date",
-        "valueType": "date"
-      },
-      {
-        "component": "textarea",
-        "name": "textarea",
-        "label": "Summary",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
+        "component": "richtext",
         "name": "text",
-        "label": "Title",
+        "value": "",
+        "label": "Text",
         "valueType": "string"
       }
      ]
