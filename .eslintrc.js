@@ -22,6 +22,6 @@ module.exports = {
       '*': 8,
       'a-specific-model': 7,
       'another-specific-model': 2,
-    }]
+    }],
   },
 };
