@@ -100,15 +100,27 @@
      ]
   },
   {
-    "id": "articleCard",
+    "id": "quote2",
     "fields": [
       {
         "component": "richtext",
-        "name": "text",
-        "value": "Text",
-        "label": "Text",
+        "name": "quote",
+        "value": "",
+        "label": "Quote",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "author",
+        "label": "Author",
+        "value": ""
       }
+    ]
+  },
+  {
+    "id": "articleCard",
+    "fields": [
      ]
   },
   {

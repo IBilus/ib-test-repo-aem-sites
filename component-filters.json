@@ -15,7 +15,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "articleCard"
     ]
   },
   {
@@ -51,6 +52,7 @@
       "cards",
       "columns",
       "quote",
+      "quote2",
       "articleCard"
      ]
   }
