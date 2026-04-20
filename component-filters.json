@@ -15,15 +15,13 @@
       "hero",
       "cards",
       "columns",
-      "fragment",
-      "articleCard"
+      "fragment"
     ]
   },
   {
     "id": "cards",
     "components": [
-      "card",
-      "articleCard"
+      "card"
     ]
   },
   {
@@ -52,8 +50,7 @@
       "cards",
       "columns",
       "quote",
-      "quote2",
-      "articleCard"
+      "quote2"
      ]
   }
 ]
