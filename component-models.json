@@ -297,6 +297,11 @@
         "valueType": "string"
       },
       {
+        "name": "imageMimeType",
+        "component": "custom-asset-namespace:custom-asset-mimetype",
+        "valueType": "string"
+      },
+      {
         "component": "text",
         "name": "imageTitle",
         "label": "Alt Text",
