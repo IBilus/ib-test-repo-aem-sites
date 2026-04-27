@@ -124,8 +124,8 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "image",
-        "label": "Image",
+        "name": "image1",
+        "label": "Image1",
         "multi": false
       },
       {
