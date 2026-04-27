@@ -129,6 +129,13 @@
         "multi": false
       },
       {
+        "component": "custom-asset-one",
+        "valueType": "string",
+        "name": "image2",
+        "label": "Image2",
+        "multi": false
+      },
+      {
         "component": "richtext",
         "name": "quote",
         "value": "",
